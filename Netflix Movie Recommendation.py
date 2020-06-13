@@ -5,7 +5,7 @@
 
 
 import os
-os.chdir('C:/Users/vivek/OneDrive/Desktop/netflix')
+os.chdir('E:/Users/Kowshik/OneDrive/Desktop/netflix')
 
 
 # In[2]:
